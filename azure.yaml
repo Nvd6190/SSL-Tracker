@@ -1,0 +1,9 @@
+name: ssl-certificate-tracking-app
+metadata:
+  template: ssl-certificate-tracking-app
+services:
+  web:
+    project: .
+    host: appservice
+    language: js
+    dist: .
