@@ -2,6 +2,20 @@
 
 A React + TypeScript single-page application for tracking and managing SSL certificates across domains.
 
+## Screenshots
+
+### Certificate Overview
+
+![Dashboard](screenshots/dashboard.png)
+
+### Add Certificate
+
+![Add Certificate](screenshots/add-certificate.png)
+
+### Subdomain Scanner
+
+![Subdomain Scanner](screenshots/subdomain-scanner.png)
+
 ## Features
 
 - **Certificate Overview** — dashboard with summary metrics (total, active, expired, due in 15/30/60/180 days, pending scan).
